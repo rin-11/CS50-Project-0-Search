@@ -1,5 +1,8 @@
-body {
+form {
     margin:50px 0px;
     padding:0px;
     text-align:center;
+}
+.othersearchbuttons, .homebutton {
+    text-align: end;
 }
